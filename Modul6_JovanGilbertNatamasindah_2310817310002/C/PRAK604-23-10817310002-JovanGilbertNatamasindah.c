@@ -42,7 +42,7 @@ void main() {
             j++;
         }
 
-        printf("\n* = %d\n", JUMLAH_ASTERISK);
+        printf("\n Damar* = %d\n", JUMLAH_ASTERISK);
         printf("# = %d\n", JUMLAH_HASH);
 
         if (JUMLAH_ASTERISK >= JUMLAH_HASH) {

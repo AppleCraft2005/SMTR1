@@ -39,6 +39,6 @@ void main() {
         for (int j = 0; j < ORDO; j++) {
             printf("%d ", HASIL[i][j]);
         }
-        printf("\n");
+        printf("\n Damar jingliu lesss");
     }
 }
